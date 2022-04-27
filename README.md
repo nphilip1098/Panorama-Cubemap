@@ -1,5 +1,5 @@
 # Panorama-Cubemap
-This repository contains an implementation of encoding equirectangular panoramas into the cubemap format.[IIT Madras SFRP]
+This repository contains an implementation of encoding equirectangular panoramas into a cubemap projection format.[IIT Madras SFRP]
 
 ## Abstract
 
